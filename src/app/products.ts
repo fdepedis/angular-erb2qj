@@ -6,7 +6,7 @@ export const products = [
   },
   {
     name: 'Phone Mini',
-    price: 899,
+    price: 799,
     description: 'A great phone with one of the best cameras'
   },
   {
